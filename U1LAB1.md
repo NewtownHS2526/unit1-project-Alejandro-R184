@@ -34,10 +34,10 @@ Include the following sections each wrapped in a `div` with an appropriate ID na
 
 Include the following html elements in your code...
 
-1. An html skeleton (html, head, body)
-2. At least two header elements(h1, h3, etc)
-3. At least one paragraph element
-4. At least one image element
+1. An html skeleton (html, head, body)/
+2. At least two header elements(h1, h3, etc)/
+3. At least one paragraph element/
+4. At least one image element/;
 5. At least one anchor element linking to another page
 6. All the elements above are nested inside the body
 7. Encapsulate sections in a `div`
