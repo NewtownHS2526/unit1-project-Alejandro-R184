@@ -1,10 +1,33 @@
-div {
+div.intro {
     background-color: #e9edc9;
     border-style: solid;
     border-width: 2px;
     border-color: black;
   }
-  
+  div.item1 {
+    background-color: #c76060;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+  }
+div.item2 {
+  background-color: #e3e3e3;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+div.item3 {
+  background-color: #80c17b;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+div.other {
+  background-color: #9ea37b;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
   img {
     max-width: 80%;
   }
